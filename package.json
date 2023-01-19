@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "My Final Project for Web Development Discipline",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vakhobiddin/FinalProject.git"
+  },
+  "author": "Vakhobiddin Bobokulov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vakhobiddin/FinalProject/issues"
+  },
+  "homepage": "https://github.com/Vakhobiddin/FinalProject#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
